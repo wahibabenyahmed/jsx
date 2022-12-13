@@ -1,0 +1,35 @@
+
+
+.picture{
+
+  display: flex;
+  justify-content: center;
+ 
+margin-top: 100px;
+
+
+}
+.picture img{
+
+border-radius:50px ;
+
+}
+.Name{
+  background-color: rgb(144, 168, 160);
+  border-radius: 30px; width: 400px;
+ display:flex;
+ justify-content: center;
+  margin-top: 50px;
+  margin-left: 560px;
+  
+  
+}
+.adress{
+
+  background-color: rgb(144, 168, 160);
+  display: flex;
+ justify-content: center;
+  margin-top: 50px;
+border-radius: 30px; width: 400px;
+margin-left: 560px;
+}
